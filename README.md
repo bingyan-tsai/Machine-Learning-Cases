@@ -1,4 +1,4 @@
-# Machine-Learning-Practice
+# Machine-Learning-Cases
 created by Jason Tsai from National Yang Ming Chiao Tung University, Taiwan.
 
 ## Introduction
